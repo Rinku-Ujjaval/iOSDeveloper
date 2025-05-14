@@ -106,12 +106,6 @@ header nav ul li a {
 
 }
 
-/* RemindSet App Styling */
-.card-remind {
-    background-color: #f1f1f1;
-
-}
-
 /* Selly App Styling */
 .card-selly {
     background-color: #e9f9f1;
@@ -122,15 +116,6 @@ header nav ul li a {
     background-color: #f9f0e9;
 }
 
-/* EmilkPro Enterprise App Styling */
-.card-emilk {
-    background-color: #f1f1f1;
-}
-
-/* AMCS Farmer App Styling */
-.card-amcs {
-    background-color: #f9f0e9;
-}
 
 /* Icon Styling for All Projects */
 .project-card i {
